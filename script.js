@@ -4,7 +4,7 @@ function compute()
 
     if(principal == "" || principal <= 0)
     {
-        alert("Enter a valid principal ammount");
+        alert("Enter a Positive Number");
         document.getElementById("principal").focus();
         return;
     }

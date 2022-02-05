@@ -48,12 +48,13 @@ table td
 
 #clear
 {
-    margin-bottom: 10px;
+margin-bottom: 10px;
     background-color: green;
     color: white;
     height: 40px;
     width: 150px;
 }
+
 
 #principal{
     height: 25px;
